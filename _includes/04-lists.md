@@ -1,5 +1,5 @@
-*4
-*head
-  *just
-  *finish
-  *thanks
+* 4
+* head
+  * just
+  * finish
+  * thanks
